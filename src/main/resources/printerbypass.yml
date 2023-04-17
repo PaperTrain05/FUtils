@@ -1,0 +1,7 @@
+printer:
+  enabled: true
+  worldbypass: []
+  fastplacecheck: []
+  scaffoldcheck: []
+  invalidcheck: []
+  badpacketscheck: []

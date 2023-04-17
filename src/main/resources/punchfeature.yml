@@ -1,0 +1,5 @@
+punch:
+  enabled: true
+  speedmultiplication: 0.25
+  newvelocity: 0.50
+

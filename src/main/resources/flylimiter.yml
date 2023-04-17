@@ -1,0 +1,3 @@
+flylimiter:
+  enabled: true
+  maxflyspeed: 0.10

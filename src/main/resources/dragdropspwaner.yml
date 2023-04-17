@@ -1,0 +1,3 @@
+dragdropspwaner:
+  enabled: true
+  not-drop-spawner: "&cNon puoi droppare uno spawner"
