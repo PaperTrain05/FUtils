@@ -2,6 +2,7 @@ name: FUtils
 version: '${project.version}'
 main: io.paper.futils.FUtils
 api-version: 1.8.9
+Dependecies: [Vulcan, FactionsKore]
 commands:
   futils:
     description: FUtils command
